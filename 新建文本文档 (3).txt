@@ -1,0 +1,7 @@
+SEO
+YII
+nginx
+熟悉W3C标准与ES规范，熟悉Web语义化。
+Vue全家桶
+开源组件库Element UI
+Webpack/Grunt/Gulp
